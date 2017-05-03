@@ -1,0 +1,19 @@
+{
+  "name": "elegance",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rhythm1995/elegance.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rhythm1995/elegance/issues"
+  },
+  "homepage": "https://github.com/rhythm1995/elegance#readme"
+}
