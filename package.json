@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/rhythm1995/elegance/issues"
   },
-  "homepage": "https://github.com/rhythm1995/elegance#readme"
+  "homepage": "https://github.com/rhythm1995/elegance#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-less": "^3.3.0"
+  }
 }
