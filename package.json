@@ -1,23 +1,18 @@
 {
-  "name": "elegance",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "name": "Elegance",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "antd": "^3.1.1",
+    "babel-plugin-import": "^1.6.3",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-scripts": "1.0.17"
+  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/rhythm1995/elegance.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/rhythm1995/elegance/issues"
-  },
-  "homepage": "https://github.com/rhythm1995/elegance#readme",
-  "devDependencies": {
-    "gulp": "^3.9.1",
-    "gulp-less": "^3.3.0"
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
   }
 }
