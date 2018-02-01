@@ -7,8 +7,7 @@
     "babel-plugin-import": "^1.6.3",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
-    "react-scripts": "1.0.17",
-    "react-svg": "^2.2.10"
+    "react-scripts": "1.0.17"
   },
   "scripts": {
     "start": "react-scripts start",
