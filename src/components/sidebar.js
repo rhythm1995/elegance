@@ -1,6 +1,7 @@
 // 左侧栏
 import React, { Component } from 'react';
-import { Input } from 'antd';
+import {Row, Col, Checkbox, Button, Input} from 'antd';
+import ReactSVG from 'react-svg'
 
 import '../App.css';
 
@@ -18,8 +19,10 @@ export default class Sidebar extends Component {
                   />
               </div>
               <ul className="sidebar-list">
-                  <li>
-                      {}
+                  <li className="list-group-item">
+                      <Row>
+                          {}
+                      </Row>
                   </li>
               </ul>
           </div>
